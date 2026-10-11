@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=C4A882&vCenter=true&width=500&lines=Adi+Shankar" alt="Typing SVG" /></a>
 
-**CE @ Georgia Tech** · building things I want to use and curious about
+**CE @ Georgia Tech** · rebuilding the internet, one thing I want to use at a time
 
 [![Portfolio](https://img.shields.io/badge/portfolio-adishankar.me-1c1c1b?style=flat-square)](https://www.adishankar.me/)
 [![X](https://img.shields.io/badge/X-@ad1shankar1-1c1c1b?style=flat-square&logo=x&logoColor=white)](https://x.com/ad1shankar1)
