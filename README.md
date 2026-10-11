@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=C4A882&vCenter=true&width=500&lines=hey%2C+i'm+adi+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=C4A882&vCenter=true&width=500&lines=Adi+Shankar" alt="Typing SVG" /></a>
 
 **CE @ Georgia Tech** · building things I want to use and curious about
 
@@ -17,8 +17,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=white)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdiS-lab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=C4A882&icon_color=C4A882&text_color=b8b3a8" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiS-lab&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=C4A882&text_color=b8b3a8" width="48%" />
