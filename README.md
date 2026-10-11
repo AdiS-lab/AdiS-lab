@@ -3,7 +3,7 @@
 **CE @ Georgia Tech** · building things I want to use and curious about
 
 [![Portfolio](https://img.shields.io/badge/portfolio-adishankar.me-1c1c1b?style=flat-square)](https://www.adishankar.me/)
-[![X](https://img.shields.io/badge/X-@AdiShankar-1c1c1b?style=flat-square&logo=x&logoColor=white)](https://x.com/AdiShankar)
+[![X](https://img.shields.io/badge/X-@ad1shankar1-1c1c1b?style=flat-square&logo=x&logoColor=white)](https://x.com/ad1shankar1)
 
 ---
 
