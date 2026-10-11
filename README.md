@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=C4A882&vCenter=true&width=500&lines=Adi+Shankar" alt="Typing SVG" /></a>
+# Adi Shankar
 
 **CE @ Georgia Tech** · rebuilding the internet, one thing I want to use at a time
 
