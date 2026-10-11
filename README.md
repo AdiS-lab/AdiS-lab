@@ -1,6 +1,6 @@
 # Adi Shankar
 
-**CE @ Georgia Tech** · rebuilding the internet, one thing I want to use at a time
+**CE @ Georgia Tech** · reverse engineering the internet + building tools I'm curious about
 
 [![Portfolio](https://img.shields.io/badge/portfolio-adishankar.me-1c1c1b?style=flat-square)](https://www.adishankar.me/)
 [![X](https://img.shields.io/badge/X-@ad1shankar1-1c1c1b?style=flat-square&logo=x&logoColor=white)](https://x.com/ad1shankar1)
